@@ -1,6 +1,6 @@
-<h3>Cryptocurrency</h3>
+<h3>Cryptocurrencies</h3>
 <p>
-  <img src="https://github-cryptocurrency-widget.glitch.me/cryptocurrency.png" alt="" width="100%"/>
+  <img src="https://github-cryptocurrencies-widget.glitch.me/cryptocurrencies.png" alt="" width="100%"/>
 </p>
 <h3>Visitors</h3>
 <p>
