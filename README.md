@@ -32,25 +32,25 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=q0v0p&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <p align="left"> 
-  <a href="https://github.com/q0v0p/q0v0p/">
+  <a href="https://github.com/q0v0p">
     <img src="https://komarev.com/ghpvc/?username=q0v0p" alt="q0v0p" />
   </a>
-  <a href="http://twitter.com/q0v0p">
-    <img height="20" src="https://img.shields.io/twitter/follow/q0v0p?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/ZxlTechNinja">
+    <img height="20" src="https://img.shields.io/twitter/follow/ZxlTechNinja?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/q0v0p">
     <img height="20" src="https://img.shields.io/github/followers/q0v0p?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/q0v0p">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/q0v0p?label=Reddit&logo=reddit&style=flat" />
+  <a href="https://www.reddit.com/user/TechNinja">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/TechNinja?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/q0v0p">
+  <a href="https://stackoverflow.com/users/5720201/TechNinja">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/q0v0p">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/q0v0p/posts.svg" />
+  <a href="http://qiita.com/ZxlTechNinja">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/TechNinja/posts.svg" />
   </a>
-  <//qiita.com/q0v0p">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/q0v0p/contributions.svg" />
+  <qiita.com/ZxlTechNinja">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/TechNinja/contributions.svg" />
   </a>
 </p>
