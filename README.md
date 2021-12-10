@@ -1,6 +1,6 @@
 <h3>Cryptocurrency [ updated every 10 min ]</h3>
 <p>
-  <img src="https://storage.googleapis.com/github-widget/puppeteer_screenshots/cryptocurrency.png" alt="" width="100%"/>
+  <img src="https://storage.googleapis.com/github-widget/screenshots/cryptocurrency.png" alt="" width="100%"/>
 </p>
 <h3>Visitors</h3>
 <p>
@@ -30,3 +30,27 @@
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=q0v0p&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<p align="left"> 
+  <a href="https://github.com/q0v0p/q0v0p/">
+    <img src="https://komarev.com/ghpvc/?username=q0v0p" alt="q0v0p" />
+  </a>
+  <a href="http://twitter.com/q0v0p">
+    <img height="20" src="https://img.shields.io/twitter/follow/q0v0p?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/q0v0p">
+    <img height="20" src="https://img.shields.io/github/followers/q0v0p?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/q0v0p">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/q0v0p?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/5720201/q0v0p">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+  <a href="http://qiita.com/q0v0p">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/q0v0p/posts.svg" />
+  </a>
+  <//qiita.com/q0v0p">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/q0v0p/contributions.svg" />
+  </a>
+</p>
