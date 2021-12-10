@@ -1,4 +1,4 @@
-<h3>Cryptocurrencies</h3>
+<h3>Cryptocurrency [ updated every 10 min ]</h3>
 <p>
   <img src="https://storage.googleapis.com/github-widget/puppeteer_screenshots/cryptocurrency.png" alt="" width="100%"/>
 </p>
