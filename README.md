@@ -4,7 +4,12 @@
 </p>
 <h3>Visitors</h3>
 <p>
-  <img src="https://github-counter-wigget.glitch.me/count.svg" alt="" width="150">
+<style type="text/css">
+  rect {
+  fill:#000!important;
+}
+</style>
+  <img src="https://komarev.com/ghpvc/?username=q0v0p&style=flat&color=grey" alt="" width="150">
 </p>
 <h3>About Me</h3>
 <h1 align="center">Hi 👋, I'm TechNinja</h1>
