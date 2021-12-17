@@ -4,11 +4,6 @@
 </p>
 <h3>Visitors</h3>
 <p>
-<style type="text/css">
-  rect {
-  fill:#000!important;
-}
-</style>
   <img src="https://komarev.com/ghpvc/?username=q0v0p&style=flat&color=grey" alt="" width="150">
 </p>
 <h3>About Me</h3>
