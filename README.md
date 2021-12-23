@@ -2,6 +2,10 @@
 <p>
   <img src="https://storage.googleapis.com/github-widget/screenshots/cryptocurrency.png" alt="" width="100%"/>
 </p>
+<h3>Today 漢字 [ updated every day]</h3>
+<p>
+  <img src="https://storage.googleapis.com/github-widget/screenshots/date.svg" alt="" width="300">
+</p>
 <h3>Visitors</h3>
 <p>
   <img src="https://komarev.com/ghpvc/?username=q0v0p&style=flat&color=grey" alt="" width="150">
