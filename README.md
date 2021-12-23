@@ -41,16 +41,16 @@
   <a href="https://github.com/q0v0p">
     <img height="20" src="https://img.shields.io/github/followers/q0v0p?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/TechNinja">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/TechNinja?label=Reddit&logo=reddit&style=flat" />
+  <a href="https://www.reddit.com/user/Zxler">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Zxler?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="https://stackoverflow.com/users/5720201/TechNinja">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/ZxlTechNinja">
+  <a href="http://qiita.com/TechNinja">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TechNinja/posts.svg" />
   </a>
-  <qiita.com/ZxlTechNinja">
+  <qiita.com/TechNinja">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TechNinja/contributions.svg" />
   </a>
 </p>
