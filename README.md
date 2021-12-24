@@ -5,11 +5,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 <p>
 <h3>Today 漢字 【Kanji】 [ updated every day ]</h3>
-<img src="https://storage.googleapis.com/github-widget/screenshots/date-kanji.svg" alt="" width="50%">
+<img src="https://storage.googleapis.com/github-widget/screenshots/date-kanji.svg" alt="" width="400">
 </p>
 <p>
 <h3>Today [ updated every day ]</h3>
-<img src="https://storage.googleapis.com/github-widget/screenshots/date.svg" alt="" width="30%">
+<img src="https://storage.googleapis.com/github-widget/screenshots/date.svg" alt="" width="200">
 </p>
 <h3 align="left">About Me</h3>
 <h1 align="center">Hi 👋, I'm TechNinja</h1>
