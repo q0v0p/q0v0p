@@ -2,14 +2,11 @@
 <p>
   <img src="https://storage.googleapis.com/github-widget/screenshots/cryptocurrency.png" alt="" width="100%"/>
 </p>
-<h3>Today 漢字 【Kanji】 [ updated every day ]</h3>
-<p>
-  <img src="https://storage.googleapis.com/github-widget/screenshots/date.svg" alt="" width="350">
-</p>
-<h3>Visitors</h3>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=q0v0p&style=flat&color=grey" alt="" width="175">
-</p>
+<h3 align="left">Today 漢字 【Kanji】 [ updated every day ]</h3>
+<img align="left" src="https://storage.googleapis.com/github-widget/screenshots/date-kanji.svg" alt="" width="200">
+<h3 align="right">Today  [ updated every day ]</h3>
+<img align="right" src="https://storage.googleapis.com/github-widget/screenshots/date.svg" alt="" width="200">
+
 <h3>About Me</h3>
 <h1 align="center">Hi 👋, I'm TechNinja</h1>
 <h3 align="center">A passionate quant developer from Japan</h3>
@@ -32,6 +29,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
   </a>
 </p>
+<h3>Visitors</h3>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=q0v0p&style=flat&color=grey" alt="" width="175">
+</p>
+<h3>Stats</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=q0v0p&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
