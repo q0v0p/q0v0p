@@ -2,10 +2,10 @@
 <p>
   <img src="https://storage.googleapis.com/github-widget/screenshots/cryptocurrency.png" alt="" width="100%"/>
 </p>
-<h3 align="left">Today 漢字 【Kanji】 [ updated every day ]</h3>
-<img align="left" src="https://storage.googleapis.com/github-widget/screenshots/date-kanji.svg" alt="" width="200">
-<h3 align="right">Today  [ updated every day ]</h3>
-<img align="right" src="https://storage.googleapis.com/github-widget/screenshots/date.svg" alt="" width="200">
+<h3 align="left" width="50%">Today 漢字 【Kanji】 [ updated every day ]</h3>
+<img align="left" src="https://storage.googleapis.com/github-widget/screenshots/date-kanji.svg" alt="" width="50%">
+<h3 align="right" width="50%">Today [ updated every day ]</h3>
+<img align="right" src="https://storage.googleapis.com/github-widget/screenshots/date.svg" alt="" width="50%">
 
 <h3>About Me</h3>
 <h1 align="center">Hi 👋, I'm TechNinja</h1>
