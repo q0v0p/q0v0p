@@ -13,7 +13,7 @@
 </p>
 <h3 align="left">About Me</h3>
 <h1 align="center">Hi 👋, I'm TechNinja</h1>
-<h3 align="center">A passionate quant developer from Japan</h3>
+<h3 align="center">A passionate quant developer👨🏻‍💻 and Ninja🥷🏼 from Japan💮</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
