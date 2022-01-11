@@ -63,4 +63,13 @@
   <qiita.com/TechNinja">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TechNinja/contributions.svg" />
   </a>
+  <a href="https://zenn.dev/zx">
+    <img src="https://zenn.badge.nikaera.com/s/zx/likes?style=flat" alt="zx likes" />
+  </a>
+  <a href="https://zenn.dev/zx/articles">
+    <img src="https://zenn.badge.nikaera.com/s/zx/articles?style=flat" alt="zx articles" />
+  </a>
+  <a href="https://zenn.dev/zx/followers">
+    <img src="https://zenn.badge.nikaera.com/s/zx/followers?style=flat" alt="zx followers" />
+  </a>
 </p>
