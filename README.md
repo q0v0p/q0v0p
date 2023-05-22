@@ -40,36 +40,3 @@
 <h3>Stats</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=q0v0p&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-<p align="left"> 
-  <a href="https://github.com/q0v0p">
-    <img src="https://komarev.com/ghpvc/?username=q0v0p" alt="q0v0p" />
-  </a>
-  <a href="http://twitter.com/ZxlTechNinja">
-    <img height="20" src="https://img.shields.io/twitter/follow/ZxlTechNinja?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/q0v0p">
-    <img height="20" src="https://img.shields.io/github/followers/q0v0p?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/Zxler">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Zxler?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/TechNinja">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/TechNinja">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TechNinja/posts.svg" />
-  </a>
-  <qiita.com/TechNinja">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TechNinja/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/zx">
-    <img src="https://zenn.badge.nikaera.com/s/zx/likes?style=flat" alt="zx likes" />
-  </a>
-  <a href="https://zenn.dev/zx/articles">
-    <img src="https://zenn.badge.nikaera.com/s/zx/articles?style=flat" alt="zx articles" />
-  </a>
-  <a href="https://zenn.dev/zx/followers">
-    <img src="https://zenn.badge.nikaera.com/s/zx/followers?style=flat" alt="zx followers" />
-  </a>
-</p>
