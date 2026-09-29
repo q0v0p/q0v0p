@@ -24,6 +24,7 @@ jobs:
     steps:
       - uses: q0v0p/fude@v1
         with:
+          theme: sumi
           output: dist/date-kanji.svg
 
       - name: Publish to output branch
