@@ -7,11 +7,14 @@
 使い方: python scripts/cyber_banner.py [出力先]
 """
 
+import json
 import pathlib
 import random
 import sys
 
-from kanji_date import CELL, GLYPHS
+HERE = pathlib.Path(__file__).parent
+GLYPHS = json.loads((HERE / "glyphs.json").read_text(encoding="utf-8"))
+CELL = 109  # glyphs.json の 1 文字の枠
 
 W, H = 760, 240
 CYAN = "#38f3ff"

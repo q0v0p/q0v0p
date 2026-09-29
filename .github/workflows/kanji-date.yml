@@ -1,14 +1,14 @@
 name: Today Kanji
 
-# 毎日 0:05 (日本時間) に今日の日付を毛筆で書く SVG を作り、output ブランチへ置く。
-# README は output ブランチの date-kanji.svg を表示する。
+# 毎日 0:05 (日本時間) に今日の日付を毛筆で書く SVG を fude (https://github.com/q0v0p/fude) で作り、
+# output ブランチへ置く。README は output ブランチの date-kanji.svg を表示する。
 on:
   schedule:
     - cron: "5 15 * * *"
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["scripts/**", ".github/workflows/kanji-date.yml"]
+    paths: [".github/workflows/kanji-date.yml"]
 
 permissions:
   contents: write
@@ -22,12 +22,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate SVG
-        run: |
-          mkdir -p dist
-          python3 scripts/kanji_date.py dist/date-kanji.svg
+      - uses: q0v0p/fude@v1
+        with:
+          output: dist/date-kanji.svg
 
       - name: Publish to output branch
         working-directory: dist
