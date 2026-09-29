@@ -1,0 +1,46 @@
+name: Today Kanji
+
+# 毎日 0:05 (日本時間) に今日の日付を毛筆で書く SVG を作り、output ブランチへ置く。
+# README は output ブランチの date-kanji.svg を表示する。
+on:
+  schedule:
+    - cron: "5 15 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/kanji-date.yml"]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: kanji-date
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate SVG
+        run: |
+          mkdir -p dist
+          python3 scripts/kanji_date.py dist/date-kanji.svg
+
+      - name: Publish to output branch
+        working-directory: dist
+        run: |
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add date-kanji.svg
+          git commit -q -m "Today Kanji $(TZ=Asia/Tokyo date +%F)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output
+
+      # 公開リポジトリの schedule は 60 日動きがないと止まるので、毎回有効化し直しておく
+      - name: Keep schedule alive
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow enable kanji-date.yml --repo "${{ github.repository }}"

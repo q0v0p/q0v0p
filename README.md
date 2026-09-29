@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm TechNinja</h1>
 <h3 align="center">A passionate quant developer👨🏻‍💻 and Ninja🥷🏼 from Japan💮</h3>
 
+<h3>Today 漢字 【Kanji】 [ updated every day ]</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/q0v0p/q0v0p/output/date-kanji.svg" alt="今日の日付" width="480"/>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
