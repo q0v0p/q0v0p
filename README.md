@@ -7,7 +7,7 @@
 
 <h3>Today 漢字 【Kanji】 [ updated every day ]</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/q0v0p/q0v0p/output/date-kanji.svg" alt="今日の日付" width="480"/>
+  <img src="https://raw.githubusercontent.com/q0v0p/q0v0p/output/today-sumi.svg" alt="今日の日付" width="480"/>
   <br/><sub>Written with <a href="https://github.com/q0v0p/fude">fude 筆</a> — brush calligraphy SVG for your profile</sub>
 </p>
 

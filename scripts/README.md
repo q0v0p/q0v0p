@@ -1,7 +1,7 @@
 # Today 漢字
 
 プロフィールの「今日の漢字」は [fude](https://github.com/q0v0p/fude) の Action で作っている
-(`.github/workflows/kanji-date.yml`)。毎日 0:05 (日本時間) に実行し、`output` ブランチの `date-kanji.svg` を置き換える。
+(`.github/workflows/kanji-date.yml`)。毎日 0:05 (日本時間) に実行し、`output` ブランチの `today-sumi.svg` を置き換える。
 
 # サイバーバナー
 

@@ -1,7 +1,7 @@
 name: Today Kanji
 
 # 毎日 0:05 (日本時間) に今日の日付を毛筆で書く SVG を fude (https://github.com/q0v0p/fude) で作り、
-# output ブランチへ置く。README は output ブランチの date-kanji.svg を表示する。
+# output ブランチへ置く。README は output ブランチの today-sumi.svg を表示する。
 on:
   schedule:
     - cron: "5 15 * * *"
@@ -25,7 +25,7 @@ jobs:
       - uses: q0v0p/fude@v1
         with:
           theme: sumi
-          output: dist/date-kanji.svg
+          output: dist/today-sumi.svg
 
       - name: Publish to output branch
         working-directory: dist
@@ -33,7 +33,7 @@ jobs:
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add date-kanji.svg
+          git add today-sumi.svg
           git commit -q -m "Today Kanji $(TZ=Asia/Tokyo date +%F)"
           git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output
 
