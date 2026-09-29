@@ -1,3 +1,7 @@
+<p>
+  <img src="https://raw.githubusercontent.com/q0v0p/q0v0p/main/assets/cyber.svg" alt="TechNinja" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm TechNinja</h1>
 <h3 align="center">A passionate quant developer👨🏻‍💻 and Ninja🥷🏼 from Japan💮</h3>
 
@@ -18,8 +22,4 @@
 <h3>Visitors</h3>
 <p>
   <img src="https://komarev.com/ghpvc/?username=q0v0p&style=flat&color=grey" alt="visitors" width="175"/>
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/q0v0p/q0v0p/main/assets/cyber.svg" alt="TechNinja" width="100%"/>
 </p>
